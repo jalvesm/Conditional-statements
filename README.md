@@ -41,12 +41,20 @@ switch(expression)
 The file in main branch *exe#num.c* is the file .c that contains the algorith that solves the question problems. Here you can see what does each exercice proposes. 
 
 1. Reads an integer number and returns if this integer is even or odd;
-2. This algorithm reads a name and 3 grades of a student and returns his media & approved or not;
+2. This algorithm reads a name and 3 grades of a student and returns his media & approved or not; //haven't made yet.
 3. Reads the water's temperature and returns if its state is in solid, liquid or gas state;
 4. Reads a value for a number and calculates specific expressions depending on number's value.
 
 ### Tecnologies used to solve the problems
 Algorithms inside this repository was writen in C language, tested in VSCode enviroment (*version: 1.68.0*) with ManjaroLinux (*distri. release: 21.3.0*) as the operating system. :)
 
+```
+Hey you, here's an **IMPORTANT NOTE**: 
+This hole repo is yet **incomplete & under construction**, but feel free to check it out! 
+
+Let me know if you find something that is necessary to commit!
+I'm constantly improving it with affection and i'd love to hear anything you have to say! :)
+```
+
 #### References:
-1. C: como programar / Paul Deitel, Harvey Deitel ; tradução Daniel Vieira; revisão técnica César Caetano. -- 6. ed. -- São Paulo: Pearson Prentice Hall, 2011.
+1. C: como programar. Paul Deitel, Harvey Deitel ; tradução Daniel Vieira; revisão técnica César Caetano. -- 6. ed. -- São Paulo: Pearson Prentice Hall, 2011.
