@@ -35,8 +35,9 @@ switch(expression)
       //code;
       break;
 } // switch ends here!
+```
 
-### What is this list about? // mudar título
+### What is this list about?
 The file in main branch *exe#num.c* is the file .c that contains the algorith that solves the question problems. Here you can see what does each exercice proposes. 
 
 1. Reads an integer number and returns if this integer is even or odd;
