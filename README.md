@@ -49,6 +49,4 @@ The file in main branch *exe#num.c* is the file .c that contains the algorith th
 Algorithms inside this repository was writen in C language, tested in VSCode enviroment (*version: 1.68.0*) with ManjaroLinux (*distri. release: 21.3.0*) as the operating system. :)
 
 #### References:
-[^2] Deitel, P. J.
-C: como programar / Paul Deitel, Harvey Deitel ; tradução Daniel Vieira ;
-revisão técnica César Caetano. -- 6. ed. -- São Paulo: Pearson Prentice Hall, 2011.
+1. C: como programar / Paul Deitel, Harvey Deitel ; tradução Daniel Vieira; revisão técnica César Caetano. -- 6. ed. -- São Paulo: Pearson Prentice Hall, 2011.
